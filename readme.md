@@ -24,3 +24,5 @@ vi .gitignore
 git remote add origin https://github.com/jeonck/first-fastapi.git  
 git push -u origin main  
 
+# docs
+![image](https://github.com/user-attachments/assets/b5850909-ac4e-49d9-bbb6-27d4849f3c90)

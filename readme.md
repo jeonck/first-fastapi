@@ -1,3 +1,19 @@
+# project tree 
+app/
+├── api/
+│   └── v1/
+│       └── endpoints/
+│           └── users.py
+├── crud/
+│   └── user.py
+├── db/
+│   └── session.py
+├── models/
+│   └── user.py
+├── schemas/
+│   └── user.py
+└── main.py
+
 # 필요한 라이브러리 설치  
 poetry add email-validator  
 poetry add fastapi  

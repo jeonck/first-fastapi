@@ -12,11 +12,11 @@ poetry add python-decouple
 # 기동  
 uvicorn main:app --reload  
 
-# git repo 
-git config --global init.defaultBranch main
-git add . 
-git commit -m "first commit: FastAPI User Mgmt API"
-vi .gitignore
-git remote add origin https://github.com/jeonck/first-fastapi.git
-git push -u origin main
+# git repo example     
+git config --global init.defaultBranch main  
+git add .   
+git commit -m "first commit: FastAPI User Mgmt API"  
+vi .gitignore  
+git remote add origin https://github.com/jeonck/first-fastapi.git  
+git push -u origin main  
 
